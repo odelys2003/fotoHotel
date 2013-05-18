@@ -25,7 +25,7 @@ function uploadPhoto(foto, nom) {
 					navigator.notification.vibrate(500);
 					window.location.href='#page';
 					break;	
-				case 2:
+				case 3:
 					
 					window.location.href='#page';
 					break;	
